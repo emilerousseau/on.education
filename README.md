@@ -1,4 +1,4 @@
-# on_education
+# on.education
 An educational project of benefit to the entire Angular community.
 
 When complete, this repository will contain a project fully illustrating what is likely _the_ most critically important concept in Angular programming, which has so far been only sporadically covered at best, and even then with gaps, errors and omissions in every iteration. So much so that it has often been necessary to synthesise numerous different sources in order to create a fully working project.
